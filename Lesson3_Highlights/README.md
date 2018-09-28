@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 27, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Claire Fry)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment allowed me to connect my cloud 9 files to my GitHub account.)
+
+## View Project:
+(https://cmf16.github.io/lesson3_VersionControl/)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Cloud 9 is a local repository and GitHub is a remote repository.)
+2. (I learned how to connect my cloud9 and GitHub accounts.)
+3. (To push back up files into Git, a series of commands are entered in the terminal of cloud9.)
 
